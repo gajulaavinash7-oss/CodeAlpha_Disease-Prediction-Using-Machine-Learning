@@ -29,6 +29,10 @@ This project predicts whether a patient has breast cancer using Machine Learning
 3. Run the program:
    ```
    python disease_prediction.py
+
+   ## 📷 Project Output
+
+![Output](screenshots/output.png)
    ```
 
 ## 👨‍💻 Author
