@@ -32,7 +32,7 @@ This project predicts whether a patient has breast cancer using Machine Learning
 
    ## 📷 Project Output
 
-![Output](screenshots/output.png)
+![Output](output.png)
    ```
 
 ## 👨‍💻 Author
